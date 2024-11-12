@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :man_technologist: Обо мне:
 
-Я учусь в Yandex Practice.
+Я учусь в Yandex practicum.
 - Работаю с UIKit
 - Опыт использования менеджеров зависимостей (CocoaPods, SPM)
 - Pаботаю с сетью, с легкость взаимодействую с api
